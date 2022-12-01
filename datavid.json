@@ -1,12 +1,12 @@
  { "Ads": [
     {
-      "api_key_youtube":"",
-      "api_key_youtube2":"",
-      "api_key_youtube3":"",
-      "api_key_youtube4":"",
-      "api_key_youtube5":"",
+      "api_key_youtube":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube2":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube3":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube4":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube5":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
       "playlist_id":"",
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "IRON",
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
@@ -18,8 +18,8 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 2,
+      "initialize_sdk":"178df01e5",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -30,60 +30,65 @@
       "link_redirect": "https://"
     }
   ],
-   "More": [
+  "More": [
+     
+  ],
+   "Video": [
      {
        "id": 1,
-       "title": "IQ Test vs The Moron Test",
-       "image": "https://play-lh.googleusercontent.com/XhugYTsJV_xevG_g4fSAXDyNHCRGyVqklvdOriC6pkIxVcEWJZ1g3uCbcR1ScmCvSOpu=w1920-h980-rw",
-       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+       "name_category": "Funny Videos",
+       "title": "Diana Roma joke with each other / Funny videos",
+       "description": "Diana Roma joke with each other.",
+       "image": "null",
+       "videoid": "InStiSESbXE"
      },
      {
        "id": 2,
-       "title": "Skins Editor for Minecraft PE",
-       "image": "https://play-lh.googleusercontent.com/mUCGBMUQZ6_bJsFkMkAx2YRY2zKMrJXQ12bWuU5CJ1wYKO-vdfdC_Mz8VV3wtlyrcg=w720-h310-rw",
-       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+       "name_category": "KHB",
+       "title": "Al-Adab Al-Mufrad - Orang Mukmin Bukanlah yang Suka Mencela",
+       "description": "Dan janganlah suka mencela dirimu sendiri dan jangan memanggil dengan Seburuk-buruk panggilan adalah (panggilan) yang buruk sesudah iman dan Jelaslah dalam ayat ini Allah mengharamkan perbuatan mencela orang lain",
+       "image": "null",
+       "videoid": "pEbHFlUD-3E"
      },
      {
        "id": 3,
-       "title": "Nova Skin for Minecraft PE",
-       "image": "https://play-lh.googleusercontent.com/_bXWahT6FDAZejwWL9R3VIN4WZ9eY7Bk71XqNrx7Bwcwn2Ax77KZBy2vr5WXoCsuWt0=w720-h310-rw",
-       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+       "name_category": "KHB",
+       "title": "Hadits Qudsi - Keutamaan Sholat-Sholat Sunnah",
+       "description": "Salat sunah atau salat nawafil (jamak: nafilah) adalah salat yang dianjurkan untuk dilaksanakan namun tidak diwajibkan sehingga tidak berdosa bila ditinggalkan dengan kata lain apabila dilakukan dengan baik dan benar serta penuh ke ikhlasan akan tampak hikmah dan rahmat dari Allah SWT yang begitu indah.",
+       "image": "null",
+       "videoid": "97iChvHJu9A"
      },
      {
        "id": 4,
-       "title": "Scanner Document App - HD PDF",
-       "image": "https://play-lh.googleusercontent.com/Uh5lv2eS1CNxGIHFwGDwFLVR8WTmBpUCCeSPlfWriVKA4JmySZQfitP3x92OFN6zjg=w1920-h980-rw",
-       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+       "name_category": "Shift",
+       "title": "Ust. Hanan Attaki - Tips Kelola Keuangan Agar Makin Berkah Ala Rasulullah",
+       "description": "dan janganlah kamu menghambur-hamburkan (hartamu) secara boros. Sesungguhnya pemboros-pemboros itu adalah saudara-saudara syaitan dan syaitan itu adalah sangat ingkar kepada Rabbnya.",
+       "image": "https://i.ytimg.com/vi/z-dp3_eHH7s/maxresdefault.jpg",
+       "videoid": "z-dp3_eHH7s"
+     },
+     {
+       "id": 5,
+       "name_category": "Shift",
+       "title": "Ustadz Nur Ihsan Jundullah - Bersama Kesulitan Ada Kemudahan",
+       "description": "Salah satu ujian dari Allah untuk menaikkan derajat ketaqwaan manusia adalah dengan ditimpakan musibah atau cobaan.",
+       "image": "null",
+       "videoid": "rrxVVOE1FzE"
      },
      {
        "id": 6,
-       "title": "Super Math Solver Calculator",
-       "image": "https://play-lh.googleusercontent.com/aF99IWhmI_z6Et4XvjPlWMbdy2g0RVKQ7goEMgD8i-XbGyw_ZR6STxQ9y_zmdCVjq7g=w1920-h980-rw",
-       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+       "name_category": "Yufid Tv",
+       "title": "Pewaris yang Masih dalam Kandungan Bagian 2 - Ustadz Ahmad Firdaus Lc.- Fiqih Warisan 59",
+       "description": "Waris menurut hukum Islam adalah hukum yang mengatur tentang peralihan harta kekayaan yang ditinggalkan seseorang yang meninggal serta akibatnya bagi para ahli warisnya",
+       "image": "null",
+       "videoid": "qpErn3XB13Y"
      },
      {
-       "id": 8,
-       "title": "Twibbon Maker",
-       "image": "https://play-lh.googleusercontent.com/gecardC2lsIKZC00C7UW4tb1sUEXCdsNs5mcz7_g6DJ0Y_2hzWm8sOECQyd_hMd_k64=w1920-h980-rw",
-       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
-     },
-     {
-       "id": 9,
-       "title": "Kamus Bahasa Indonesia",
-       "image": "https://play-lh.googleusercontent.com/BFfyUgHv47RGMmlNJu-7VxVwQ1tiaacRT00ZlzL1clSTgHaYYXNnnm22n1F0QTkMIko=w1920-h980-rw",
-       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
-     },
-     {
-       "id": 10,
-       "title": "Data Gempabumi Terbuka",
-       "image": "https://play-lh.googleusercontent.com/FpdydcBkDLqOMHfYi8ORfjqQaZHOfBELAyH9AAZgHOah_FpOZdrSMOlaT0jz-KgzRx0=w1920-h980-rw",
-       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
-     },
-     {
-       "id": 11,
-       "title": "Ayo Shalat",
-       "image": "https://play-lh.googleusercontent.com/3IM72AsKuO4DUbgkrB1MRRExSic7PIEZiEbTBllPNDvK9MYlufQvfgjT7Jsbm324qg=w1920-h980-rw",
-       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.ayosholat"
+       "id": 7,
+       "name_category": "AHO",
+       "title": "Laporan Hasil Audit Donasi Palestina - Ustadz Adi Hidayat",
+       "description": "Sebarkan seluas-luasnya  kebaikan dengan share video ini, subscribe channel dan aktifkan notifikasi untuk mendapatkan ilmu dan informasi terbaru dari Ustadz Adi Hidayat, Lc., MA. ( UAH )",
+       "image": "null",
+       "videoid": "HDxLrreup7o"
      }
    ]
 }
